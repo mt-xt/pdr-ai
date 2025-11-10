@@ -1,7 +1,7 @@
 # pdr-ai
 GROUP 17 PROJECT PROPOSAL ECS 170
 
-GROUP MEMBERS: Amirta Balakrishnan, Angel Jauregui, Matthew Abalos, Nathan Castellon, Quintin Tucker, Rayan Narayanaswamy, Sasha Karelina, Sia Puri, Tyler Guo
+GROUP MEMBERS: Amirta Balakrishnan, Angel Jauregui, Matthew, Nathan Castellon, Quintin Tucker, Rayan Narayanaswamy, Sasha Karelina, Sia Puri, Tyler Guo
 
 BACKGROUND: 
 According to the CDC, diabetes has become one of the fastest-growing global health concerns, with a projected 38 million individuals diagnosed with some form of diabetes in the U.S. alone. A staggering 98 million individuals are classified as pre-diabetic, and these numbers continue to rise every year.
