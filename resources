@@ -1,6 +1,15 @@
 # Resources used
 
 data cleaning:
+1.1
     https://medium.com/@mattdamberg/data-cleaning-with-python-665930f3215a
     https://www.w3schools.com/python/pandas/pandas_cleaning_empty_cells.asp 
     https://www.kaggle.com/code/aman2626786/outlier-removal-using-iqr-method 
+1.2
+    https://www.geeksforgeeks.org/machine-learning/what-is-feature-engineering/
+    https://www.ibm.com/think/topics/feature-engineering
+    https://towardsdatascience.com/encoding-categorical-data-explained-a-visual-guide-with-code-example-for-beginners-b169ac4193ae/
+    https://pandas.pydata.org/docs/dev/user_guide/categorical.html
+    https://www.geeksforgeeks.org/machine-learning/ml-one-hot-encoding/ 
+    https://www.geeksforgeeks.org/machine-learning/how-to-perform-ordinal-encoding-using-sklearn/
+    
