@@ -1,0 +1,17 @@
+# Python
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# Data files (if large)
+data/raw/*.csv
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
