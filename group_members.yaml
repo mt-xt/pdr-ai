@@ -1,0 +1,47 @@
+group_members:
+    group_member_1:
+        name: Amirta Balakrishnan
+        student_id: 921829344
+        email: ambalakrishnan@ucdavis.edu
+        github_username: amirtab27
+    group_member_2:
+        name: Angel Jauregui
+        student_id: 920990669
+        email:
+        github_username: AngelDJauregui
+    group_member_3:
+        name: Rayan Narayanaswamy
+        student_id: 4089304261
+        email: rayannarayanazwamy@ucdavis.edu
+        github_username: rayan-narayan
+    group_member_4:
+        name: Sasha Karelina
+        student_id: 922365852
+        email: askarelina@ucdavis.edu
+        github_username:
+    group_member_5:
+        name: Sia Puri
+        student_id: 921877833
+        email: siapuri@ucdavis.edu
+        github_username: siap17
+    group_member_6:
+        name: Tyler Guo
+        student_id: 921008754
+        email: tylguo@ucdavis.edu
+        github_username: tylguo
+    group_member_7: 
+        name: Quintin Tucker
+        student_id: 920666540
+        email: qttucker@ucdavis.edu
+        github_username: qttucker
+    group_member_8:
+        name: Matthew Abalos
+        student_id: 922519758
+        email: muabalos@ucdavis.edu
+        github_username:
+    group_member_9:
+        name: Nathan Castellon
+        student_id: 919413571
+        email: aycast@ucdavis.edu
+        github_username: Aylifts
+    
