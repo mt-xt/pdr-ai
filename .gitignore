@@ -5,7 +5,7 @@ __pycache__/
 .env
 
 # Virtual environment
-venv/
+.venv/
 
 # Data files (if large)
 data/raw/*.csv
